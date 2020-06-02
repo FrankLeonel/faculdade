@@ -1,0 +1,2 @@
+3;1223;Residencial;2 quartos;123;true;60000.0;6;2;Rua Doca Pessoa;
+2;1000;Comercial;hjdkdhsk;1234567;true;100000.0;6;3;Gustavo Barroso;
